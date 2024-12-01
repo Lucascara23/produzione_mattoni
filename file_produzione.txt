@@ -1,0 +1,43 @@
+La produzione è stata avviata.
+Mescolatrice 7ha finito 
+Mescolatrice 8ha finito 
+Mescolatrice 1ha finito 
+Mescolatrice 2ha finito 
+Mescolatrice 3ha finito 
+Mescolatrice 4ha finito 
+Mescolatrice 6ha finito 
+Mescolatrice 5ha finito 
+Il forno ha completato la cottura di400mattoni
+Il forno ha completato la cottura di400mattoni
+Il forno ha completato la cottura di400mattoni
+Il forno ha completato la cottura di400mattoni
+è stato completato completato l'imballaggio di 1600mattoni
+Produzione completata.
+La produzione è stata avviata.
+Mescolatrice 6inizia 
+Mescolatrice 2inizia 
+Mescolatrice 7inizia 
+Mescolatrice 3inizia 
+Mescolatrice 4inizia 
+Mescolatrice 8inizia 
+Mescolatrice 5inizia 
+Mescolatrice 1inizia 
+Mescolatrice 6ha finito 
+Mescolatrice 5ha finito 
+Mescolatrice 8ha finito 
+Mescolatrice 4ha finito 
+Mescolatrice 2ha finito 
+Mescolatrice 7ha finito 
+Mescolatrice 3ha finito 
+Mescolatrice 1ha finito 
+Il forno inizia la cottura 400mattoni
+Il forno ha completato la cottura di400mattoni
+Il forno inizia la cottura 400mattoni
+Il forno ha completato la cottura di400mattoni
+Il forno inizia la cottura 400mattoni
+Il forno ha completato la cottura di400mattoni
+Il forno inizia la cottura 400mattoni
+Il forno ha completato la cottura di400mattoni
+Inizia l'imballaggio dei 1600mattoni
+è stato completato completato l'imballaggio di 1600mattoni
+Produzione completata.
